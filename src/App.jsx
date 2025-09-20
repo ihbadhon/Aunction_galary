@@ -1,7 +1,7 @@
 import "./App.css";
 import DivC from "./components/DivC";
 import Footer from "./components/Footer";
-import Home from "./components/home";
+import Home from "./components/Home";
 
 function App() {
   return (
