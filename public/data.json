@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Smartphone Pro X",
+    "description": "Flagship smartphone with 6.8-inch OLED display, 12GB RAM, and 256GB storage.",
+    "currentBidPrice": 720,
+    "timeLeft": "3h 20m",
+    "bidsCount": 14,
+    "image": "https://i.ibb.co.com/xStxzfwW/smartphone.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Wireless Noise-Cancelling Headphones",
+    "description": "Over-ear headphones with active noise cancellation and 30-hour battery life.",
+    "currentBidPrice": 180,
+    "timeLeft": "1d 5h",
+    "bidsCount": 9,
+    "image": "https://i.ibb.co.com/kgK2rD7V/download.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Gaming Laptop Ultra",
+    "description": "High-performance gaming laptop with RTX 4070 GPU, Intel i7, and 16GB RAM.",
+    "currentBidPrice": 1250,
+    "timeLeft": "2d 12h",
+    "bidsCount": 21,
+    "image": "https://i.ibb.co.com/RpJLTnHG/laptop.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Smartwatch Series 8",
+    "description": "Water-resistant smartwatch with heart-rate monitor, GPS, and 2-day battery.",
+    "currentBidPrice": 240,
+    "timeLeft": "6h 10m",
+    "bidsCount": 11,
+    "image": "https://i.ibb.co.com/jPrhspyg/smartwatch.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Bluetooth Speaker Max",
+    "description": "Portable Bluetooth speaker with deep bass, waterproof design, and 20-hour playtime.",
+    "currentBidPrice": 95,
+    "timeLeft": "4d 1h",
+    "bidsCount": 7,
+    "image": "https://i.ibb.co.com/SSzW7PQ/blutoth.jpg"
+  },
+  {
+    "id": 6,
+    "title": "4K Action Camera",
+    "description": "Compact action camera with 4K recording, waterproof casing, and wide-angle lens.",
+    "currentBidPrice": 310,
+    "timeLeft": "8h 45m",
+    "bidsCount": 13,
+    "image": "https://i.ibb.co.com/9m97SXpt/action-camera.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Wireless Gaming Mouse",
+    "description": "Lightweight gaming mouse with 16000 DPI sensor, RGB lighting, and long battery life.",
+    "currentBidPrice": 65,
+    "timeLeft": "12h 25m",
+    "bidsCount": 5,
+    "image": "https://i.ibb.co.com/080DW1j/mouse.jpg"
+  }
+]
